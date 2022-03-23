@@ -2,7 +2,7 @@
 
 
 I'm a newbie developer with a lot of willingness to learn. I'm passionate about new technologies and I'm very interested in web and mobile 
-development, specially Back-end. I seek to work and develop in projects that challenge me and stimulate my continuous growth. I'm here to learn and to contribute.
+development, specially Back-end. I seek to work and develop projects that challenge me and stimulate my continuous growth. I'm here to learn and to contribute.
 
 
 <h3>Writing :computer: </h3>
