@@ -4,15 +4,6 @@
 I'm a young developer with a lot of willingness to learn. I'm passionate about new technologies and I'm very interested in web and mobile 
 development, specially Back-end. I seek to work and develop projects that challenge me and stimulate my continuous growth. I'm here to learn and to contribute.
 
-
-<h3>Writing :computer: </h3>
-
-<hr width="70%">
-
-My goal is to write clean and good quality codes
-
-<h3>Contact me :calling: </h3>
-
 <hr width="70%">
 
 You can find me in:
