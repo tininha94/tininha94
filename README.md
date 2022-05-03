@@ -1,7 +1,7 @@
 <h2>HI, I'm Cristina Prevides 👋 </h2>
 
 
-I'm a young developer with a lot of willingness to learn. I'm passionate about new technologies and I'm very interested in web and mobile 
+I'm a newbie developer with a lot of willingness to learn. I'm passionate about new technologies and I'm very interested in web and mobile 
 development, specially Back-end. I seek to work and develop projects that challenge me and stimulate my continuous growth. I'm here to learn and to contribute.
 
 <hr width="70%">
